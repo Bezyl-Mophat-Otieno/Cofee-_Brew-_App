@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "278130048657",
+    "project_id": "brew-app-1f79a",
+    "storage_bucket": "brew-app-1f79a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278130048657:android:b5581a885331134b510930",
+        "android_client_info": {
+          "package_name": "com.brew_app.flutter_1_intellij"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278130048657-0g54f8l7dc4cjohetd5rr8f51mv5kita.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPk88hu08e74IgPUwTUVqLo_Qin0tPCfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278130048657-0g54f8l7dc4cjohetd5rr8f51mv5kita.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:278130048657:android:41bafe9251da6dee510930",
+        "android_client_info": {
+          "package_name": "com.mophat.coffe_brew_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "278130048657-0g54f8l7dc4cjohetd5rr8f51mv5kita.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPk88hu08e74IgPUwTUVqLo_Qin0tPCfs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "278130048657-0g54f8l7dc4cjohetd5rr8f51mv5kita.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
